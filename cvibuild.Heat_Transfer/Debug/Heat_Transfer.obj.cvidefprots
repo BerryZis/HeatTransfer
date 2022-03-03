@@ -1,0 +1,48 @@
+[main]
+Class="Function"
+Prototype="int main(int argc, char **argv);"
+
+[exitQ]
+Class="Function"
+Prototype="int exitQ(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Time]
+Class="Function"
+Prototype="int Time(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Func]
+Class="Function"
+Prototype="int Func(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Color]
+Class="Function"
+Prototype="int Color(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[ResetAll]
+Class="Function"
+Prototype="int ResetAll(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[Graph]
+Class="Function"
+Prototype="int Graph(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[exitQ2]
+Class="Function"
+Prototype="int exitQ2(int panel, int event, void *callbackData, int eventData1, int eventData2);"
+
+[plot]
+Class="Function"
+Prototype="int plot(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[plotReset]
+Class="Function"
+Prototype="int plotReset(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[CURSORXY]
+Class="Function"
+Prototype="int CURSORXY(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+
+[About]
+Class="Function"
+Prototype="int About(int panel, int control, int event, void *callbackData, int eventData1, int eventData2);"
+

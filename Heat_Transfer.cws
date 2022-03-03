@@ -1,0 +1,163 @@
+[Workspace Header]
+Version = 1700
+Pathname Line0001 = "/d/Afeka/Third Year/Semester A/CVI Prog/Homework4-5_BerryZiskind/Heat_Transfer.c"
+Pathname Line0002 = "ws"
+CVI Dir = "/c/program files (x86)/national instruments/cvi2017"
+CVI Shared Dir = "/C/Program Files (x86)/National Instruments/Shared/CVI"
+CVI Pub Local Dir = "/C/ProgramData/National Instruments/CVI2017"
+CVI Pub Global Dir = "/C/ProgramData/National Instruments/CVI"
+IVI Standard Root Dir = "/C/Program Files (x86)/IVI Foundation/IVI"
+IVI Standard Root 64-bit Dir = "/C/Program Files/IVI Foundation/IVI"
+VXIplug&play Framework Dir = "/C/Program Files (x86)/IVI Foundation/VISA/winnt"
+VXIplug&play Framework 64-bit Dir = "/C/Program Files/IVI Foundation/VISA/win64"
+Number of Projects = 1
+Active Project = 1
+Project 0001 = "Heat_Transfer.prj"
+Drag Bar Left = 224
+Window Top = 31
+Window Left = 758
+Window Bottom = 1057
+Window Right = 2279
+Maximized = True
+Maximized Children = True
+Max32 Number Of Errors = 20
+Track Include File Dependencies = True
+Prompt For Missing Includes = True
+Stop On First Error File = False
+Bring Up Err Win At Start = True
+Bring Up Err Win For Errors = False
+Save Changes Before Running = "Always"
+Save Changes Before Compiling = "Always"
+Hide Windows = False
+Break At First Statement = False
+Sort Type = "File Name"
+Number of Opened Files = 2
+Window Confinement Region Enabled = True
+MainColumnWidth = 207
+FileDateColumnWidth = 70
+FileSizeColumnWidth = 70
+
+[Project Header 0001]
+Version = 1700
+Don't Update DistKit = False
+Platform Code = 4
+Build Configuration = "Debug"
+Warn User If Debugging Release = 1
+Batch Build Release = False
+Batch Build Debug = False
+
+[File 0001]
+Path Line0001 = "/d/Afeka/Third Year/Semester A/CVI Prog/Homework4-5_BerryZiskind/Heat_Transfer.u"
+Path Line0002 = "ir"
+File Type = "User Interface Resource"
+Disk Date = 3665858113
+In Projects = "1,"
+Window Top = 33
+Window Left = 10
+Window Height = 349
+Window Width = 995
+Window Z-Order = 1
+
+[File 0002]
+Path = "/d/Afeka/Third Year/Semester A/CVI Prog/Homework4-5_BerryZiskind/Heat_Transfer.c"
+File Type = "CSource"
+Disk Date = 3657783148
+In Projects = "1,"
+Window Top = 95
+Window Left = 42
+Window Z-Order = 2
+Source Window State = "1,169,170,169,12,62,12,0,0,107,0,121,0,0,0,25,121,0,184,0,349,899,1,7,"
+
+[Tab Order]
+Tab 0001 Line0001 = "/d/Afeka/Third Year/Semester A/CVI Prog/Homework4-5_BerryZiskind/Heat_Transfer.u"
+Tab 0001 Line0002 = "ir"
+Tab 0002 = "/d/Afeka/Third Year/Semester A/CVI Prog/Homework4-5_BerryZiskind/Heat_Transfer.c"
+
+[Default Build Config 0001 Debug]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Debug64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Default Build Config 0001 Release64]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Batch Build = False
+Profile = "Disabled"
+Debugging Level = "Standard"
+Execution Trace = "Disabled"
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+External Process Path = ""
+
+[Build Dependencies 0001]
+Number of Dependencies = 0
+
+[Build Options 0001]
+Generate Browse Info = True
+Enable Uninitialized Locals Runtime Warning = True
+Execution Trace = "Disabled"
+Profile = "Disabled"
+Debugging Level = "Standard"
+Break On Library Errors = True
+Break On First Chance Exceptions = False
+
+[Execution Target 0001]
+Execution Target Address = "Local desktop computer"
+Execution Target Port = 0
+Execution Target Type = 0
+
+[SCC Options 0001]
+Use global settings = True
+SCC Provider = ""
+SCC Project = ""
+Local Path = ""
+Auxiliary Path = ""
+Perform Same Action For .h File As For .uir File = "Ask"
+Perform Same Action For .cds File As For .prj File = "Ask"
+Username = ""
+Comment = ""
+Use Default Username = False
+Use Default Comment = False
+Suppress CVI Error Messages = False
+Always show confirmation dialog = True
+
+[DLL Debugging Support 0001]
+External Process Path = ""
+
+[Command Line Args 0001]
+Command Line Args = ""
+Working Directory = ""
+Environment Options = ""
+
